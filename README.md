@@ -1,6 +1,13 @@
 # MDA-OnlineComments
 Supplementary materials for: Are online news comments like face-to-face conversation? A multi-dimensional analysis of an emerging register (version 1.0)
 
+### DOI
+
+
+[![DOI](https://zenodo.org/badge/224676981.svg)](https://zenodo.org/badge/latestdoi/224676981)
+
+
+
 ### Description
 
 This repository contains the original data, script, and additional statistical material for conducting a multi-dimensional analysis of online news comments vis-à-vis other traditional English registers as described in
