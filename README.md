@@ -6,6 +6,8 @@ Supplementary materials for: Are online news comments like face-to-face conversa
 
 [![DOI](https://zenodo.org/badge/224676981.svg)](https://zenodo.org/badge/latestdoi/224676981)
 
+https://zenodo.org/badge/latestdoi/224676981
+
 
 
 ### Description
