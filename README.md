@@ -9,7 +9,7 @@ Ehret, Katharina, and Maite Taboada. (in press). “Are online news comments lik
 
 This publication focuses on the question of whether online news comments are like face-to-face conversation or not. It is a widespread view that online comments are like "dialogue", with comments often being referred to as "conversations". These assumptions, however, lack empirical back-up. In order to answer this question, register-relevant properties of online news comments are systematically explored using multi-dimensional analysis (MDA) techniques. Specifically, MDA is used to establish what online comments are like by describing their linguistic features and comparing them to traditional registers (e.g. face-to-face conversation, academic writing). 
 
-The dataset üublished in this repository is based on comments and opinion articles of the Simon Fraser University opinion and
+The dataset published in this repository is based on comments and opinion articles of the Simon Fraser University opinion and
 comments corpus (SOCC, https://github.com/sfu-discourse-lab/SOCC) as well as the Canadian component of the International Corpus of English (ICE, http://ice-corpora.net/ice/). A detailed description of the data (henceforth called SOCC-ICE dataset) and statistical procedure, i.e. factor analysis, can be found in the related publication. 
 
 ### Overview and description of the files (in alphabetical order):
