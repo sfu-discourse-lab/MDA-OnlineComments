@@ -1,0 +1,29 @@
+{
+    "description": "<p>Release with code and stats for Register Studies 2020 paper.</p>", 
+    "license": "other-open", 
+    "title": "sfu-discourse-lab/MDA-OnlineComments: Register_studies", 
+    "version": "1.0", 
+    "upload_type": "software", 
+    "publication_date": "2019-11-28", 
+    "creators": [
+        {
+            "name": "Katharina Ehret"
+        }, 
+        {
+            "name": "Maite Taboada"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/sfu-discourse-lab/MDA-OnlineComments/tree/1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.3556819", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
