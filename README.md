@@ -5,7 +5,7 @@ Supplementary materials for: Are online news comments like face-to-face conversa
 
 This repository contains the original data, script, and additional statistical material for conducting a multi-dimensional analysis of online news comments vis-à-vis other traditional English registers as described in
 
-Ehret, Katharina, and Maite Taboada. (in press). “Are online news comments like face-to-face conversation? A multi-dimensional analysis of an emerging register”. *Register Studies*.
+* Ehret, Katharina, and Maite Taboada. (in press). “Are online news comments like face-to-face conversation? A multi-dimensional analysis of an emerging register”. *Register Studies*.
 
 This publication focuses on the question of whether online news comments are like face-to-face conversation or not. It is a widespread view that online comments are like "dialogue", with comments often being referred to as "conversations". These assumptions, however, lack empirical back-up. In order to answer this question, register-relevant properties of online news comments are systematically explored using multi-dimensional analysis (MDA) techniques. Specifically, MDA is used to establish what online comments are like by describing their linguistic features and comparing them to traditional registers (e.g. face-to-face conversation, academic writing). 
 
